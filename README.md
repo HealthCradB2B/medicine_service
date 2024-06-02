@@ -1,0 +1,1 @@
+- make .env file and keep all the secret key inside that
